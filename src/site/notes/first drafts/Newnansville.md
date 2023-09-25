@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-drafts/newnansville/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/first-drafts/newnansville/","noteIcon":"1","created":"","updated":""}
 ---
 
 Newnansville, named for Patriot War Colonel Daniel Newnan, is the settlement which held the first county seat upon the [[1824 - Alachua County is Established\|creation of Alachua County]]. The settlement was near Dell's P.O, a post office established in 1826 and became the "junction of several important trails through Frontier Florida"[^1]. 
