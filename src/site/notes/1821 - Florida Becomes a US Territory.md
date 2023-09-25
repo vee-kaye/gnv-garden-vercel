@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1821-florida-becomes-a-us-territory/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/1821-florida-becomes-a-us-territory/","noteIcon":"1","created":"","updated":""}
 ---
 
 Negotiations between Spain and the United States began in 1819 and the Adams-Onis (or Transcontinental) Treaty was ratified in 1821; the colonies of East Florida and West Florida were combined into a single territory with "twin capitals" at [[Pensacola\|Pensacola]] and [[St. Augustine\|St. Augustine]][^1]. 
