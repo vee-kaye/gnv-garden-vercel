@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-of-gainesville/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/history-of-gainesville/","tags":["gardenEntry"],"noteIcon":"1","created":"","updated":""}
 ---
 
 ## Indigenous History
